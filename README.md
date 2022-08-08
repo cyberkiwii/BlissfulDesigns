@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="images/logo.png"/>
+   <img style: "width:20%"; src="images/logo.png"/>
 </p>
 
 # BlissfulDesigns
