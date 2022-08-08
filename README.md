@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="images/logo.png"/>
+</p>
+
 # BlissfulDesigns
 Art and Photography website
 
